@@ -12,7 +12,7 @@
 
 ![MandelbrotSet](./Resources/MandelbrotSet.png)
 
-## Zoomed-in Mandelbrot Set
+### Zoomed-in Mandelbrot Set
 
 ![MandelbrotSetZoomedIn](./Resources/MandelbrotSetZoomedIn.png)
 
